@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammad63100" alt="hammad63100" /></a> </p>
 
-- 🔭 I’m currently working on **Voting_System using Blockchain**
+- 🔭 My final project is **Voting_System using Blockchain**
 
-- 🌱 I’m currently learning **Ether.js, Web3,js**
+- 🌱 I’m currently learning **Ether.js, Web3,js,.Net**
 
 - 💬 Ask me about **Blockchain**
 
