@@ -7,7 +7,7 @@
 
 - 🔭 My final project is **Voting_System using Blockchain**
 
-- 🌱 I’m currently learning **Ether.js, Web3,js,.Net**
+- 🌱 I’m currently learning **Ether.js, Web3,js Hardhat, truffle**
 
 - 💬 Ask me about **Blockchain**
 
