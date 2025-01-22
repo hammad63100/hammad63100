@@ -25,3 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammad63100&show_icons=true&locale=en" alt="hammad63100" /></p>
 
+<p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hammad%20Khan&card_height=198" alt="GitHub Streak" /></a></p>
+
+
